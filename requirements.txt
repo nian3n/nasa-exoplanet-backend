@@ -1,0 +1,6 @@
+#run pip install -r requirements.txt to install all dependencies
+xgboost 
+scikit-learn 
+pandas 
+numpy 
+matplotlib
